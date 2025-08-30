@@ -272,6 +272,8 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [ColorZero](https://github.com/waveform80/colorzero) - Another color manipulation library for Python
 * [LogZero](https://github.com/metachris/logzero) - Robust and effective logging
 * [NetworkZero](https://github.com/tjguk/networkzero) - Make it easy for learning groups to use simple networking in Python
+* [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
+
 
 ### Games, graphics and simulation
 
